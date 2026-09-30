@@ -144,7 +144,7 @@ Review APT's proposed changes before accepting. The initial upgrade download fai
 | D-Bus socket and initscript/runlevel warnings | Recorded during upgrade; not independently resolved |
 | Package-list check at 9% | User reported over 15 minutes; eventually completed |
 | Defender real-time scanning | User temporarily disabled it; timing and performance effect unmeasured |
-| Defender restored | Requested; not yet confirmed in the test record |
+| Defender restored | User confirmed real-time protection back on, 30 September 2026 |
 
 Clean package checks do not prove that every background service or application works. No machine-ID regeneration was performed as part of this procedure. No controlled benchmark or performance trace was collected. Do not attribute the delay to Defender without measurements.
 
